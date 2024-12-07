@@ -1,0 +1,3 @@
+KKPRINCE12  = mongodb password 
+mongodburl = mongodb+srv://princebabu4495:<db_password>@cluster0.7fwix.mongodb.net/
+mongodb+srv://princebabu4495:<db_password>@cluster0.7fwix.mongodb.net/
